@@ -2,7 +2,7 @@ package stack;
 
 import java.util.ArrayList;
 
-public class stackusial {
+public class stackusiarraylist {
 
    private static ArrayList<Integer> st = new ArrayList<Integer>();
    private static int size=-1;
