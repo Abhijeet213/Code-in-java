@@ -1,6 +1,6 @@
 package Quee;
 
-public class LinkedlistQuee {
+public class LinkedlistQueue {
     private static  Node front; 
     private Node rear; 
     private static  int size = 0;
