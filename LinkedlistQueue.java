@@ -1,4 +1,4 @@
-package Queue;
+
 
 public class LinkedlistQueue {
     private static  Node front; 
