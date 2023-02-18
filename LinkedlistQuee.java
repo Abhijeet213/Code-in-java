@@ -20,7 +20,7 @@ public class LinkedlistQuee {
     }
     public void remove() {
         if (isEmpty()) {
-        System.err.println("Quee Is empty");
+        System.err.println("Queue Is empty");
         return;
             
         } 
